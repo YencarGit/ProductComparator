@@ -1,0 +1,110 @@
+{
+  "categories": [
+    {
+      "name": "Смартфоны",
+      "specs": [
+        {"name": "Экран", "unit": "\"", "higher_is_better": true},
+        {"name": "Аккумулятор", "unit": "мАч", "higher_is_better": true},
+        {"name": "Вес", "unit": "г", "higher_is_better": false}
+      ]
+    }
+  ],
+  "products": [
+    {
+      "name": "Galaxy S24",
+      "brand": "Samsung",
+      "category": "Смартфоны",
+      "price": 79990,
+      "rating": 4.8,
+      "values": [6.2, 4000, 167]
+    },
+    {
+      "name": "iPhone 15",
+      "brand": "Apple",
+      "category": "Смартфоны",
+      "price": 84990,
+      "rating": 4.9,
+      "values": [6.1, 3349, 171]
+    },
+    {
+      "name": "Xiaomi 14",
+      "brand": "Xiaomi",
+      "category": "Смартфоны",
+      "price": 64990,
+      "rating": 4.7,
+      "values": [6.36, 4610, 193]
+    },
+    {
+      "name": "Pixel 8",
+      "brand": "Google",
+      "category": "Смартфоны",
+      "price": 69990,
+      "rating": 4.8,
+      "values": [6.2, 4575, 187]
+    },
+    {
+      "name": "Poco X6 Pro",
+      "brand": "Poco",
+      "category": "Смартфоны",
+      "price": 32990,
+      "rating": 4.6,
+      "values": [6.67, 5000, 186]
+    },
+    {
+      "name": "Galaxy A55",
+      "brand": "Samsung",
+      "category": "Смартфоны",
+      "price": 38990,
+      "rating": 4.5,
+      "values": [6.6, 5000, 213]
+    },
+    {
+      "name": "iPhone 15 Pro Max",
+      "brand": "Apple",
+      "category": "Смартфоны",
+      "price": 129990,
+      "rating": 5.0,
+      "values": [6.7, 4441, 221]
+    },
+    {
+      "name": "OnePlus 12",
+      "brand": "OnePlus",
+      "category": "Смартфоны",
+      "price": 74990,
+      "rating": 4.9,
+      "values": [6.82, 5400, 220]
+    },
+    {
+      "name": "Realme GT 6",
+      "brand": "Realme",
+      "category": "Смартфоны",
+      "price": 55990,
+      "rating": 4.7,
+      "values": [6.78, 5500, 199]
+    },
+    {
+      "name": "Redmi Note 13 Pro+",
+      "brand": "Xiaomi",
+      "category": "Смартфоны",
+      "price": 35990,
+      "rating": 4.6,
+      "values": [6.67, 5000, 204]
+    },
+    {
+      "name": "Honor 200 Pro",
+      "brand": "Honor",
+      "category": "Смартфоны",
+      "price": 69990,
+      "rating": 4.8,
+      "values": [6.78, 5200, 199]
+    },
+    {
+      "name": "Vivo V30",
+      "brand": "Vivo",
+      "category": "Смартфоны",
+      "price": 42990,
+      "rating": 4.6,
+      "values": [6.78, 5000, 186]
+    }
+  ]
+}
