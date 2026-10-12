@@ -5,106 +5,188 @@
       "specs": [
         {"name": "Экран", "unit": "\"", "higher_is_better": true},
         {"name": "Аккумулятор", "unit": "мАч", "higher_is_better": true},
-        {"name": "Вес", "unit": "г", "higher_is_better": false}
+        {"name": "Вес", "unit": "г", "higher_is_better": false},
+        {"name": "ОЗУ", "unit": "ГБ", "higher_is_better": true},
+        {"name": "Память", "unit": "ГБ", "higher_is_better": true}
       ]
     }
   ],
   "products": [
     {
-      "name": "Galaxy S24",
+      "name": "OnePlus 13 (16/512, Snapdragon 8 Elite)",
+      "brand": "OnePlus",
+      "category": "Смартфоны",
+      "price": 79990,
+      "rating": 5.0,
+      "values": [6.82, 6000, 213, 16, 512]
+    },
+    {
+      "name": "Galaxy S24 (8/256, Exynos 2400)",
       "brand": "Samsung",
       "category": "Смартфоны",
       "price": 79990,
       "rating": 4.8,
-      "values": [6.2, 4000, 167]
+      "values": [6.2, 4000, 167, 8, 256]
     },
     {
-      "name": "iPhone 15",
-      "brand": "Apple",
+      "name": "Galaxy S24 Ultra (12/512, Snapdragon 8 Gen 3)",
+      "brand": "Samsung",
       "category": "Смартфоны",
-      "price": 84990,
-      "rating": 4.9,
-      "values": [6.1, 3349, 171]
+      "price": 139990,
+      "rating": 5.0,
+      "values": [6.8, 5000, 232, 12, 512]
     },
     {
-      "name": "Xiaomi 14",
-      "brand": "Xiaomi",
-      "category": "Смартфоны",
-      "price": 64990,
-      "rating": 4.7,
-      "values": [6.36, 4610, 193]
-    },
-    {
-      "name": "Pixel 8",
-      "brand": "Google",
-      "category": "Смартфоны",
-      "price": 69990,
-      "rating": 4.8,
-      "values": [6.2, 4575, 187]
-    },
-    {
-      "name": "Poco X6 Pro",
-      "brand": "Poco",
-      "category": "Смартфоны",
-      "price": 32990,
-      "rating": 4.6,
-      "values": [6.67, 5000, 186]
-    },
-    {
-      "name": "Galaxy A55",
+      "name": "Galaxy A55 (8/256, Exynos 1480)",
       "brand": "Samsung",
       "category": "Смартфоны",
       "price": 38990,
       "rating": 4.5,
-      "values": [6.6, 5000, 213]
+      "values": [6.6, 5000, 213, 8, 256]
     },
     {
-      "name": "iPhone 15 Pro Max",
+      "name": "Galaxy A35 (8/128, Exynos 1380)",
+      "brand": "Samsung",
+      "category": "Смартфоны",
+      "price": 29990,
+      "rating": 4.4,
+      "values": [6.6, 5000, 209, 8, 128]
+    },
+    {
+      "name": "iPhone 15 (6/128, Apple A16 Bionic)",
+      "brand": "Apple",
+      "category": "Смартфоны",
+      "price": 84990,
+      "rating": 4.9,
+      "values": [6.1, 3349, 171, 6, 128]
+    },
+    {
+      "name": "iPhone 15 Pro (8/256, Apple A17 Pro)",
+      "brand": "Apple",
+      "category": "Смартфоны",
+      "price": 109990,
+      "rating": 4.9,
+      "values": [6.1, 3274, 187, 8, 256]
+    },
+    {
+      "name": "iPhone 15 Pro Max (8/256, Apple A17 Pro)",
       "brand": "Apple",
       "category": "Смартфоны",
       "price": 129990,
       "rating": 5.0,
-      "values": [6.7, 4441, 221]
+      "values": [6.7, 4441, 221, 8, 256]
     },
     {
-      "name": "OnePlus 12",
-      "brand": "OnePlus",
+      "name": "iPhone 14 (6/128, Apple A15 Bionic)",
+      "brand": "Apple",
       "category": "Смартфоны",
-      "price": 74990,
-      "rating": 4.9,
-      "values": [6.82, 5400, 220]
-    },
-    {
-      "name": "Realme GT 6",
-      "brand": "Realme",
-      "category": "Смартфоны",
-      "price": 55990,
+      "price": 72990,
       "rating": 4.7,
-      "values": [6.78, 5500, 199]
+      "values": [6.1, 3279, 172, 6, 128]
     },
     {
-      "name": "Redmi Note 13 Pro+",
+      "name": "Xiaomi 14 (12/256, Snapdragon 8 Gen 3)",
+      "brand": "Xiaomi",
+      "category": "Смартфоны",
+      "price": 64990,
+      "rating": 4.7,
+      "values": [6.36, 4610, 193, 12, 256]
+    },
+    {
+      "name": "Xiaomi 14 Ultra (16/512, Snapdragon 8 Gen 3)",
+      "brand": "Xiaomi",
+      "category": "Смартфоны",
+      "price": 119990,
+      "rating": 4.9,
+      "values": [6.73, 5000, 219, 16, 512]
+    },
+    {
+      "name": "Redmi Note 13 Pro+ (12/512, Dimensity 7200 Ultra)",
       "brand": "Xiaomi",
       "category": "Смартфоны",
       "price": 35990,
       "rating": 4.6,
-      "values": [6.67, 5000, 204]
+      "values": [6.67, 5000, 204, 12, 512]
     },
     {
-      "name": "Honor 200 Pro",
+      "name": "Redmi Note 13 Pro (8/256, Helio G99 Ultra)",
+      "brand": "Xiaomi",
+      "category": "Смартфоны",
+      "price": 27990,
+      "rating": 4.5,
+      "values": [6.67, 5000, 187, 8, 256]
+    },
+    {
+      "name": "Pixel 8 (8/128, Google Tensor G3)",
+      "brand": "Google",
+      "category": "Смартфоны",
+      "price": 69990,
+      "rating": 4.8,
+      "values": [6.2, 4575, 187, 8, 128]
+    },
+    {
+      "name": "Pixel 8 Pro (12/256, Google Tensor G3)",
+      "brand": "Google",
+      "category": "Смартфоны",
+      "price": 99990,
+      "rating": 4.9,
+      "values": [6.7, 5050, 213, 12, 256]
+    },
+    {
+      "name": "Poco X6 Pro (12/512, Dimensity 8300 Ultra)",
+      "brand": "Poco",
+      "category": "Смартфоны",
+      "price": 32990,
+      "rating": 4.6,
+      "values": [6.67, 5000, 186, 12, 512]
+    },
+    {
+      "name": "Poco F6 Pro (12/512, Snapdragon 8 Gen 2)",
+      "brand": "Poco",
+      "category": "Смартфоны",
+      "price": 49990,
+      "rating": 4.7,
+      "values": [6.67, 5000, 209, 12, 512]
+    },
+    {
+      "name": "OnePlus 12 (16/512, Snapdragon 8 Gen 3)",
+      "brand": "OnePlus",
+      "category": "Смартфоны",
+      "price": 74990,
+      "rating": 4.9,
+      "values": [6.82, 5400, 220, 16, 512]
+    },
+    {
+      "name": "OnePlus 12R (16/256, Snapdragon 8 Gen 2)",
+      "brand": "OnePlus",
+      "category": "Смартфоны",
+      "price": 54990,
+      "rating": 4.7,
+      "values": [6.78, 5500, 207, 16, 256]
+    },
+    {
+      "name": "Realme GT 6 (12/256, Snapdragon 8s Gen 3)",
+      "brand": "Realme",
+      "category": "Смартфоны",
+      "price": 55990,
+      "rating": 4.7,
+      "values": [6.78, 5500, 199, 12, 256]
+    },
+    {
+      "name": "Honor 200 Pro (12/512, Snapdragon 8s Gen 3)",
       "brand": "Honor",
       "category": "Смартфоны",
       "price": 69990,
       "rating": 4.8,
-      "values": [6.78, 5200, 199]
+      "values": [6.78, 5200, 199, 12, 512]
     },
     {
-      "name": "Vivo V30",
+      "name": "Vivo V30 (12/256, Snapdragon 7 Gen 3)",
       "brand": "Vivo",
       "category": "Смартфоны",
       "price": 42990,
       "rating": 4.6,
-      "values": [6.78, 5000, 186]
+      "values": [6.78, 5000, 186, 12, 256]
     }
   ]
 }
